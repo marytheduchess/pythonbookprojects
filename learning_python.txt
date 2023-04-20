@@ -1,0 +1,9 @@
+"In Python you can print multiple lists with a lot of information."
+
+In Python you can make a calculator.
+
+In Python you can create dictionaries and print them within classes.
+
+In Python you can organize information into succint classes and subclasses with descriptions.
+
+
